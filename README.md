@@ -36,3 +36,15 @@ Busiest Stations (busiest_stations.sql): Identifies the top stations based on bi
 Peak Hour Usage (peak_hour_analysis.sql): Analyzes hourly trends to determine peak times.
 Each script contains inline comments explaining its purpose and execution.
 
+----
+
+<p align="center">
+  <img src="bikesCollectedMap.png" alt="Architecture Diagram" width="800">
+</p>
+
+---
+
+<p align="center">
+  <img src="BIDashboard.jpg" alt="Architecture Diagram" width="800">
+</p>
+
